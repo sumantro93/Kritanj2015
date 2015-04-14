@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "Kritanj",
+  "description": "The app is the official FxOS App for Kitanj 2015",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icon16.png",
+    "48": "/img/icon48.png",
+    "128": "/img/icon128.png"
+  },
+  "developer": {
+    "name": "Sumantro Mukherjee & Ayan Choudhury"   },
+  "installs_allowed_from": ["*"],
+ "default_locale": "en"
+
+}
